@@ -1,1 +1,1 @@
-web:node node www
+web:node www
