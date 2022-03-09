@@ -17,5 +17,19 @@
     "jsonwebtoken": "^8.5.1",
     "mongoose": "^6.2.4",
     "morgan": "~1.9.1"
-  }
+  },
+  "main": "app.js",
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kishore-chandrasekar/Amazon-clone-Backend.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kishore-chandrasekar/Amazon-clone-Backend/issues"
+  },
+  "homepage": "https://github.com/kishore-chandrasekar/Amazon-clone-Backend#readme",
+  "description": ""
 }
